@@ -23,5 +23,6 @@ HW02_2
 HW03
 
 ![hw03](images/hw03.jpg)
-![hw03_edit](images/hw03_edit.png)
+![hw03_edit1](images/hw03_edit_1.png)
+![hw03_edit2](images/hw03_edit_2.png)
 ![hw03_run](images/hw03_run.png)
